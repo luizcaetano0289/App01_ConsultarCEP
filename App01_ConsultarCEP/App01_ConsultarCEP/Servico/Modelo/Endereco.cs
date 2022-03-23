@@ -4,7 +4,7 @@ using System.Text;
 
 namespace App01_ConsultarCEP.Servico.Modelo
 {
-    class Endereco
+    public class Endereco
     {
         public string cep { get; set; }
         public string logradouro { get; set; }
