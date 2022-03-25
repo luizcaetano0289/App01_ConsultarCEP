@@ -3,22 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App01_ConsultarCEP.MainPage">
 
-    <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="APLICATIVO DE TREINO" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
-        <Label Text="É HORA DE COMEÇAR A DESENVOLVER" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="É HORA DE TREINAR O CÓDIGO APRENDIDO" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
+    <StackLayout BackgroundColor="#FFBF00" Padding="30" Spacing="30">
+        <Image Source="Logo.png" />
+        <Entry Placeholder="Digite o cep" PlaceholderColor="#FFBF00" BackgroundColor="#FFFFFF"/>
+        <Button Text="BUSCAR CEP" TextColor="#FFFFFF" BackgroundColor="#00416b"/> 
+
+        <Label Text="" 
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
     </StackLayout>
 
 </ContentPage>

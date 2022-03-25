@@ -574,3 +574,4 @@ C:\Users\ingri\source\repos\App01_ConsultarCEP\App01_ConsultarCEP\App01_Consulta
 C:\Users\ingri\source\repos\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\ingri\source\repos\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ingri\source\repos\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\ingri\source\repos\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
