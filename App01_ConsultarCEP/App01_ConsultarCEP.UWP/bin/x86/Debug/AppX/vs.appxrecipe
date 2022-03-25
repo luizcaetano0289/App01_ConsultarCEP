@@ -72,7 +72,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\source\repos\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.dll">
       <PackagePath>App01_ConsultarCEP.dll</PackagePath>
-      <Modified>2022-03-25T19:40:41.942</Modified>
+      <Modified>2022-03-25T20:19:43.840</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
